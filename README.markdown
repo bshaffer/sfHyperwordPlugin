@@ -51,7 +51,7 @@ For Example:
     }
     
     // Your content
-    $content = 'And with spontaneous combustion, you could explode while reading up on symfony plugins.'
+    $content = 'And with spontaneous combustion, you could explode while reading up on symfony plugins.';
     echo HyperwordToolkit::getInstance()->parseBlock($content);
       
     // would render below:
