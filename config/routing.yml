@@ -1,0 +1,4 @@
+hyperword_processor:
+  url:  /utilities/hyperwords/:word
+  param: { module: csHyperword, action: process }
+  

@@ -1,0 +1,11 @@
+Hyperword:
+  columns:
+    name:
+      type:     string(255)
+      unique:   true
+      notnull:  true
+    object_id:
+      type:     string(255)
+    object_class:
+      type:     string(255)
+  
